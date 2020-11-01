@@ -1,0 +1,3 @@
+{
+    "files": ["Heating.qml","main.py","LightForm.ui.qml","main.qml","Light.qml","HeatingForm.ui.qml","Security.qml","SecurityForm.ui.qml"]
+}
